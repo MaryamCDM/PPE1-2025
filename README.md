@@ -1,2 +1,1 @@
-# PPE1-2025
-Programmation et projet encadré 1
+# git-along

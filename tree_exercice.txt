@@ -1,0 +1,64 @@
+cadetmarthe@cadetmarthe-83k0:~$ cd Exercice
+cadetmarthe@cadetmarthe-83k0:~/Exercice$ cd Exercice1
+cadetmarthe@cadetmarthe-83k0:~/Exercice/Exercice1$ tree -d
+.
+├── ann
+│   ├── 2016
+│   └── 2017
+├── docs
+├── img
+│   ├── Berlin
+│   ├── Kyoto
+│   ├── Paris
+│   ├── Rome
+│   ├── Taipei
+│   ├── Tokyo
+│   └── Washington
+└── txt
+    ├── 2016
+    ├── 2017
+    └── 2018
+
+17 directories
+cadetmarthe@cadetmarthe-83k0:~/Exercice/Exercice1$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

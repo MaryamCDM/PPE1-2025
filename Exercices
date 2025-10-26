@@ -1,3 +1,0 @@
-le nombre de lignes contenant le mot 'location' est de
-5612
-la formule utilisée est : grep -i -r location | wc -l

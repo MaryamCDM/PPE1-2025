@@ -26,4 +26,4 @@ Pour afficher le numéro de ligne, il suffit de créer une variable 0 que l'on a
         n=0
 Ensuite, pour ajouter des tabulations il faut ajouter \t qui permet de marquer des tabulations.
 
-Pour voir le résultat du travail, aller sur code2.sh
+Pour voir le résultat du travail, aller sur code4final.sh

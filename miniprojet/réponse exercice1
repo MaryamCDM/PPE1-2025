@@ -1,0 +1,29 @@
+Réponses aux questions de l'exercice 1 :
+1. Pourquoi ne pas utiliser cat ?
+La commande cat ne conserve pas toutes les données des variables donc lrosqu'une boucle se termine (ou un programme), les variables disparaissent. Sans cat, la boucle garde les informations des variables et le résultat sera donc bien plus fiable.
+
+2. Comment transformer "urls/fr.txt" en paramètre du script ?
+Il faut le transformer en variable.
+Exemple :
+    fichier=urls/fr.txt #la variable se nomme fichier
+    $fichier #la manière dont on se réfère au fichier
+
+2.1 Valider l’argument : ajouter le code nécessaire pour s’assurer qu’on donne bien un argument au script, sinon on s’arrête
+les codes a ajouter sont les suivants :
+    $# -> représente le nombre d'arguments donc si $# est égal à 0 alors cela signifie qu'aucun argument n'a été fourni
+    -eq -> signifie "égal à"
+    exit -> permet de terminer un script immédiatement et ne pas continuer (exit0 = tout s'est bien passé mais exit n = il y a eu une erreur)
+    il faut donc noter :
+    if [ $# -eq 0 ]; then #si le nombre d'argument est égal à 0 alors, (de plus ne pas oublier les espaces entre les crochets car impotant pour la syntaxe)
+        echo "Veuillez ajouter un argument"
+        exit 1
+    fi #termine le bloc if
+
+3. Comment afficher le numéro de ligne avant chaque URL (sur la même ligne) ?
+• Bien séparer les valeurs par des tabulations
+Pour afficher le numéro de ligne, il suffit de créer une variable 0 que l'on affichera avant l'affichage des URL.
+    Exemple:
+        n=0
+Ensuite, pour ajouter des tabulations il faut ajouter \t qui permet de marquer des tabulations.
+
+Pour voir le résultat du travail, aller sur code2.sh

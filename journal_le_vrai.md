@@ -7,8 +7,6 @@ Nous avons rencontrés un problème sur le terminal. En effet, lorsque nous util
 Nous avons émis comme hypothèse que nous devions clôner notre propre github mais avons préférer ne pas le faire et attendre la séance prochaine.
 En ce qui concerne le tag, nous avons peur qu'il ne prenne pas nos modifications en compte mais nous allons tout de même et essayer et nous verrons cela mercredi :)
 
-## gros blanc ici à remplir concernant le travail de ces dernières séances
-
 ## Travail du 14 au 17/11/2025
 Chers professeurs, aujourd'hui j'ai finalisé mon miniprojet final. Après avoir git push mes tentatives, j'ai décidé de vérifier si le lien était fonctionnel, malheureusment ce n'était pas le cas. Je n'ai pas vraiment compris pourquoi. J'ai donc essayé à maintes reprises de relier mon travail final nommé "index-final" puis "index-final-vraiment" au lien auquel il était censé correspondre. Voyant que cela ne fonctionne pas, j'ai décidé de supprimer le lien et d'en faire un nouveau. Mais je pense avoir fait une bêtise car je n'arrive tout simplement plus à créer de site désormais :\
 Je pense tout de même vous décrire le travail que j'ai fait ces derniers jours ainsi que toutes les difficultés et résolutions qui ont suivies. Je tiens d'abord à vous prévenir que ce travail a été fait avec le plus de sérieux possible et que de vrais efforts ont été faits.
